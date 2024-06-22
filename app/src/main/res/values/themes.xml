@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.PlaylistRecycler" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="fontFamily">@font/aref_ruqaa_bold</item>
+    </style>
+
+    <style name="Theme.PlaylistRecycler" parent="Base.Theme.PlaylistRecycler" />
+</resources>
